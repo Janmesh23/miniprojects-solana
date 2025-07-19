@@ -72,9 +72,3 @@ The project follows a structured, milestone-based approach to ensure iterative d
 
 ---
 
-### 🛠️ How to View
-
-To view the infographic locally:
-
-1.  **Download the File:** Save the `social_nft_platform_infographic.html` file to your local machine.
-2.  **Open in Browser:** Double-click the file or open it directly with your preferred web browser (e.g., Chrome, Firefox, Safari).
