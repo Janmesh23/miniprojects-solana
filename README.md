@@ -2,14 +2,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://placehold.co/800x450/0D1B2A/E0E1DD?text=Solana+Social+NFT+Platform+Infographic+Preview" alt="A preview of the Solana Social NFT Platform Infographic, showing a dark-themed, modern layout with charts and a timeline." width="800"/>
-</p>
-
-<p align="center">
-  <em>A single-page application designed to visually articulate the vision, architecture, and roadmap of a decentralized social media platform built on Solana.</em>
-</p>
-
 ---
 
 ## ✨ Core Features
