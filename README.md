@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/7g4Y2Yv.png" alt="A preview of the Solana Social NFT Platform Infographic, showing a dark-themed, modern layout with charts and a timeline." width="800"/>
+  <img src="https://placehold.co/800x450/0D1B2A/E0E1DD?text=Solana+Social+NFT+Platform+Infographic+Preview" alt="A preview of the Solana Social NFT Platform Infographic, showing a dark-themed, modern layout with charts and a timeline." width="800"/>
 </p>
 
 <p align="center">
